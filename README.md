@@ -1,5 +1,5 @@
 ### Hi there 👋
-##STATUS
+## STATUS
 ![Prabhleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhleen28&show_icons=true&theme=radical)
 <!--
 **prabhleen28/prabhleen28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
